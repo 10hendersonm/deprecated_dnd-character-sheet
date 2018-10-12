@@ -4,6 +4,6 @@ describe('Main', () => {
   })
 
   it('Has a main div', () => {
-    expect(cy.get('[data-cy="main"]')).to.exist
+    expect(cy.get('[data-cy="min"]')).to.exist
   })
 })
