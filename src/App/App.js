@@ -15,7 +15,7 @@ class App extends Component {
 
     return (
       <div style={style.container}>
-        Hello World!
+        Hello World
       </div>
     )
   }
