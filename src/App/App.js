@@ -15,7 +15,7 @@ class App extends Component {
 
     return (
       <div data-cy="main" style={style.container}>
-        Hello World
+        Hello World!
       </div>
     )
   }
