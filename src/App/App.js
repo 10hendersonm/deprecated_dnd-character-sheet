@@ -18,7 +18,7 @@ class App extends Component {
         Hello World
 
         <div>
-          ASDF!
+          ASDF
         </div>
       </div>
     )
